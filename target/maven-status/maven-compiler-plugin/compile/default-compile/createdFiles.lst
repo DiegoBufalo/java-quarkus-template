@@ -1,0 +1,5 @@
+br/com/dbufalo/planningpoker/model/PlayerProjection$PlayerProjectionBuilder.class
+configuration/MigrationService.class
+br/com/dbufalo/planningpoker/model/PlayerDAO.class
+br/com/dbufalo/planningpoker/model/PlayerProjection.class
+br/com/dbufalo/planningpoker/model/PlayerController.class
